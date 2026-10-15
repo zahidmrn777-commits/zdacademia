@@ -1,0 +1,7 @@
+{
+  "name": "Offline Translator",
+  "description": "A clean, modern offline translator with voice-to-text input, multi-language offline packs, travel phrasebook, text-to-speech, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
